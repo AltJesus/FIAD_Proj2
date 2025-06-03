@@ -34,6 +34,9 @@ plt.title('Client Data: Salary vs Decision')
 plt.yticks(ticks=[0, 1], labels=['No', 'Yes'])
 plt.text(2000, 0.5, 'Aparentemente, o salário não quer dizer nada lol', dict(size=10))
 
-plt.show()
+# plt.show()
 
+
+
+print(data[0])
 
